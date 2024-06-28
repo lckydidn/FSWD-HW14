@@ -1,4 +1,6 @@
-// import Books from "./components/Books.js";
+// Lucky Didan Ramadhan
+// FSWD 7
+// HW 14
 import Homepage from "./homepage";
 const Home = () => {
   return (
